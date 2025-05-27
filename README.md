@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=plastic" alt="facebook Badge"/>
     </a>
     <a href="https://www.instagram.com/david88war">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=plastic" alt="instagram Badge"/>
     </a>
     <a href="https://twitter.com/RangeTester">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
